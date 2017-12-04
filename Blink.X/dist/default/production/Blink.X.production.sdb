@@ -1,0 +1,26 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 6 ]
+"21 C:\Users\Nicholas\Documents\SAE\Microchip\Project\Blink.X\BlinkMain.c
+[v _main main `(v  1 e 1 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.43\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.43\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.43\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 1 0 ]
+"39
+[v _memcpyee memcpyee `(v  1 e 1 0 ]
+"214 C:\Program Files (x86)\Microchip\xc8\v1.43\include\pic16f877a.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"1373
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"2577
+[v _RB3 RB3 `VEb  1 e 0 @51 ]
+"21 C:\Users\Nicholas\Documents\SAE\Microchip\Project\Blink.X\BlinkMain.c
+[v _main main `(v  1 e 1 0 ]
+{
+"34
+} 0
